@@ -48,7 +48,7 @@ export default function Home() {
                 A software developer building web applications, developer
                 tools, security-focused experiments, and API-driven projects.
               </p>
-              <a href="https://amwafy.xyz" target="_blank" rel="noreferrer"
+              <a href="https://afeemuhammodwafy.com" target="_blank" rel="noreferrer"
                 className="mt-4 inline-block text-sm text-zinc-200 hover:text-white">
                 Visit creator portfolio
               </a>
